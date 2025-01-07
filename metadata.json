@@ -1,0 +1,12 @@
+{
+  "name": "Flexa",
+  "symbol": "FLX",
+  "uri": "https://github.com/koalaaiinfo/logoflexa/blob/main/2.png?raw=true",
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "ATFH6WVwcQForvPNpFbRQi1iJKejBXZB827Gu4c4ZBcd",
+      "share": 100
+    }
+  ]
+}
